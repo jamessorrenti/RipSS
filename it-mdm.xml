@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0">
   <channel>
     <title>Rippling Device Management Product Launches</title>
@@ -6,7 +7,7 @@
     <description>Latest product launches for IT admins (scope: it-mdm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Sat, 23 May 2026 04:47:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 04:59:38 GMT</lastBuildDate>
     <item>
       <title>Improved Software Experience</title>
       <description><![CDATA[Improved software deployment management
@@ -17,7 +18,8 @@
 Better debugging and policy deployment visibility
 -- Detailed error tracking for policy deployments
 -- Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
-      <guid isPermaLink="false">[Confidence 8] 019aef12-b194-7b00-897f-cfa45b779959</guid>
+      <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
+      <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
       <category>Device Management</category>
     </item>
     <item>
@@ -52,7 +54,7 @@ Better debugging and policy deployment visibility
 -- Supports migration from existing Windows MDM solutions
 -- Applies to devices not joined to Microsoft Entra
 -- Makes it easier for customers to transition to Rippling MDM]]></description>
-      <guid isPermaLink="false">[Confidence 9] 0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
+      <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
     </item>
   </channel>
