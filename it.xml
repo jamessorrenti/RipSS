@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0">
   <channel>
     <title>Rippling IT Product Launches</title>
@@ -6,31 +7,7 @@
     <description>Latest product launches for IT admins (scope: it)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Sat, 23 May 2026 04:47:39 GMT</lastBuildDate>
-    <item>
-      <title>Improved Software Experience</title>
-      <description><![CDATA[Improved software deployment management
--- Easily view the status of software deployments across your organization
--- Quickly identify errors and issues with detailed explanations
--- Explore and manage software from an improved catalog experience
-
-Better debugging and policy deployment visibility
--- Detailed error tracking for policy deployments
--- Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
-      <guid isPermaLink="false">[Confidence 8] 019aef12-b194-7b00-897f-cfa45b779959</guid>
-      <category>Device Management</category>
-    </item>
-    <item>
-      <title>Bulk 3P Group Push Bug Fix</title>
-      <description><![CDATA[Bug fix
--- Fixed an issue where landing groups in a stuck state]]></description>
-      <category>Identity</category>
-    </item>
-    <item>
-      <title>SSO Latency Improvements</title>
-      <description><![CDATA[Rearchitected network requests resulting in a 50% reduction in median latency]]></description>
-      <category>Identity</category>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 04:59:36 GMT</lastBuildDate>
     <item>
       <title>Google Workspace Offboarding v2</title>
       <description><![CDATA[Advanced policy management
@@ -45,6 +22,7 @@ Comprehensive visibility & audit tracking
 -- Offboarding Activity records with user-level and action-level status tracking
 -- Clear error messages with manual retry controls for failed actions
 -- Policy changelog tracking who changed what and when]]></description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ac9df-492c-7eed-b8f5-cc7f1c720e8c</guid>
       <category>Identity</category>
     </item>
@@ -63,8 +41,36 @@ This works for both:
 -- Creating new BDR policies
 
 Users who are blocked will now see the configured message during SSO instead of a generic error.]]></description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ad55b-661c-7750-a338-a084f042b488</guid>
       <category>Identity</category>
+    </item>
+    <item>
+      <title>SSO Latency Improvements</title>
+      <description><![CDATA[Rearchitected network requests resulting in a 50% reduction in median latency]]></description>
+      <pubDate>Mon, 09 Mar 2026 23:35:03 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Bulk 3P Group Push Bug Fix</title>
+      <description><![CDATA[Bug fix
+-- Fixed an issue where landing groups in a stuck state]]></description>
+      <pubDate>Mon, 09 Mar 2026 17:48:14 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Improved Software Experience</title>
+      <description><![CDATA[Improved software deployment management
+-- Easily view the status of software deployments across your organization
+-- Quickly identify errors and issues with detailed explanations
+-- Explore and manage software from an improved catalog experience
+
+Better debugging and policy deployment visibility
+-- Detailed error tracking for policy deployments
+-- Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
+      <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
+      <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
+      <category>Device Management</category>
     </item>
     <item>
       <title>Standalone Inventory Management</title>
@@ -97,7 +103,7 @@ Enhanced Slack SSO setup experience
 -- Dynamic setup instructions tailored to the customer’s Slack plan (Enterprise Grid vs Pro/Business+)
 -- Step-by-step guidance for configuring SAML, navigating Slack settings, and testing setup
 -- Replaces outdated one-size-fits-all instructions to reduce confusion and setup errors]]></description>
-      <guid isPermaLink="false">[Confidence 9] 019ce592-2018-7885-b41b-e95f38fec827</guid>
+      <guid isPermaLink="false">019ce592-2018-7885-b41b-e95f38fec827</guid>
       <category>Identity</category>
     </item>
     <item>
@@ -106,7 +112,7 @@ Enhanced Slack SSO setup experience
 -- Eliminated the need for one-off permission configuration for non-super admins
 -- Enable permission profiles to automatically grant install access for new integrations
 -- Streamlines access control for all newly published third-party App Shop integrations]]></description>
-      <guid isPermaLink="false">[Confidence 10] 019ad56d-3c06-7ca3-b65a-03c9a4fc2f3d</guid>
+      <guid isPermaLink="false">019ad56d-3c06-7ca3-b65a-03c9a4fc2f3d</guid>
       <category>Identity</category>
     </item>
     <item>
@@ -154,7 +160,7 @@ Enhanced Slack SSO setup experience
 -- Supports migration from existing Windows MDM solutions
 -- Applies to devices not joined to Microsoft Entra
 -- Makes it easier for customers to transition to Rippling MDM]]></description>
-      <guid isPermaLink="false">[Confidence 9] 0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
+      <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
     </item>
   </channel>
