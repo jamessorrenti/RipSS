@@ -3,8 +3,18 @@
   <channel>
     <title>Rippling Inventory Management Product Launches</title>
     <link>https://rippling.com</link>
-    <description>Placeholder — feed will populate on the first publish.</description>
+    <description>Latest product launches for IT admins (scope: it-ivm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
+    <lastBuildDate>Sat, 23 May 2026 04:47:43 GMT</lastBuildDate>
+    <item>
+      <title>Standalone Inventory Management</title>
+      <description><![CDATA[Device lifecycle management improvements
+-- Fully decoupled solution for managing device workflows end-to-end
+-- Supports shipping devices to and from the warehouse
+-- Enables device inspection and buyback processes
+-- Operates independently without requiring MDM integration]]></description>
+      <category>Inventory Management</category>
+    </item>
   </channel>
 </rss>
