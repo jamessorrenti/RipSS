@@ -7,17 +7,17 @@
     <description>Latest product launches for IT admins (scope: it-mdm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Mon, 25 May 2026 17:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 21:20:24 GMT</lastBuildDate>
     <item>
       <title>Improved Software Experience</title>
       <description><![CDATA[Improved software deployment management
--- Easily view the status of software deployments across your organization
--- Quickly identify errors and issues with detailed explanations
--- Explore and manage software from an improved catalog experience
+• Easily view the status of software deployments across your organization
+• Quickly identify errors and issues with detailed explanations
+• Explore and manage software from an improved catalog experience
 
 Better debugging and policy deployment visibility
--- Detailed error tracking for policy deployments
--- Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
+• Detailed error tracking for policy deployments
+• Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
       <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
       <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
       <category>Device Management</category>
@@ -25,35 +25,35 @@ Better debugging and policy deployment visibility
     <item>
       <title>Faster Software Installation Initiation</title>
       <description><![CDATA[Faster software deployment
--- Significantly improved deployment speed across devices
--- New deployments now initiate within ~2 minutes of a device coming online]]></description>
+• Significantly improved deployment speed across devices
+• New deployments now initiate within ~2 minutes of a device coming online]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Revamped Device Enrollment Flow</title>
       <description><![CDATA[Improved device onboarding experience
--- Streamlined the “add a device” flow for faster setup
--- Simplified trial account landing pages for a more intuitive experience
--- Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
+• Streamlined the “add a device” flow for faster setup
+• Simplified trial account landing pages for a more intuitive experience
+• Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Granular user account management during device assignment</title>
       <description><![CDATA[Granular device assignment controls
--- Choose what user accounts to keep
--- Choose what user accounts to delete
--- Choose whether or not to create a new account
--- Edit both the username and full name for the account
--- Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
+• Choose what user accounts to keep
+• Choose what user accounts to delete
+• Choose whether or not to create a new account
+• Edit both the username and full name for the account
+• Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Smooth migration for Windows (non-Entra)</title>
       <description><![CDATA[Simplified device migration to Rippling MDM
--- Quickly migrate devices with minimal steps for a seamless transition
--- Supports migration from existing Windows MDM solutions
--- Applies to devices not joined to Microsoft Entra
--- Makes it easier for customers to transition to Rippling MDM]]></description>
+• Quickly migrate devices with minimal steps for a seamless transition
+• Supports migration from existing Windows MDM solutions
+• Applies to devices not joined to Microsoft Entra
+• Makes it easier for customers to transition to Rippling MDM]]></description>
       <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
     </item>
