@@ -7,7 +7,258 @@
     <description>Latest product launches for IT admins (scope: it)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Mon, 25 May 2026 21:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:26:38 GMT</lastBuildDate>
+    <item>
+      <title>RPass Admin Overview Enhancements</title>
+      <description><![CDATA[RPass admin overview has been revamped to consolidate user-level insights on a single page.
+• Clearly differentiates user states (not in rules vs. never used vs. previously used)
+• Surfaces every item a user has access to and at what permission level
+• Highlights at-risk and out-of-compliance logins directly in the overview]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>RPass Admin Vault Management Enhancements</title>
+      <description><![CDATA[RPass admin vault management has been enhanced with item-level visibility and direct controls.
+• Item-level view replaces the legacy domain-grouped view
+• View and manage folders and sharing permissions directly from the admin
+• Add items, search, and filter by tags, password strength, and compliance status inline]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Step Up Auth Copy Updates</title>
+      <description><![CDATA[Step Up authentication prompts now include clearer copy explaining why re-authentication is required.
+• Updated messaging conveys that the action is guarded and Step Up must be completed to proceed
+• Reduces confusion and support tickets around unexpected re-auth prompts]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Default integration attributes permissions fix</title>
+      <description><![CDATA[Permission scope for setting default integration attributes has been expanded.
+• All app admins can now update the default integration attribute (previously super-admin only)
+• Removes the need to escalate to super admins for routine integration setup]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>3P group push and pull reliability</title>
+      <description><![CDATA[Third-party group push and pull reliability has been improved.
+• Updated sync mechanism reduces failures for connected-app group memberships
+• More dependable propagation of group changes across third-party integrations]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Store checkout page redesign</title>
+      <description><![CDATA[The Devices Store checkout page has been redesigned for a faster, more flexible ordering flow.
+• Simplified, easier-to-use checkout experience
+• More flexible configuration options at purchase time]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Inventory Management</category>
+    </item>
+    <item>
+      <title>New Logistic Flows</title>
+      <description><![CDATA[Redesigned logistic flows now:
+• Allows user to view and edit all the actions to be taken in a single screen
+• Allows scheduling shipping and unassignment in the future
+• Allows creating a shipping label only instead of always sending a box]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Inventory Management</category>
+    </item>
+    <item>
+      <title>Risk register</title>
+      <description><![CDATA[Automated Compliance now includes a built-in risk register, replacing the manual spreadsheet workflow.
+• Survey-driven review of each risk, capturing inherent risk, mapped mitigating controls, and residual risk
+• Direct mapping between risks and the controls that address them
+• Generates the risk register evidence required for a SOC 2 audit]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Automated Compliance</category>
+    </item>
+    <item>
+      <title>Zendesk OAuth Migration</title>
+      <description><![CDATA[Zendesk integration now uses modern OAuth.
+• Existing Zendesk connections move to OAuth-based authentication
+• Replaces legacy auth for more reliable connection management]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019ad566-6714-7875-b597-a9433f73d7d5</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Multi-region - Top 5 Apps</title>
+      <description><![CDATA[EU data residency is now supported for the top 5 SaaS app integrations.
+• Microsoft 365, Slack, and Zoom certified and enabled for EU customers]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019ac9e4-cf15-7172-87d9-8cbdb7246c18</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Advanced Offboarding for Microsoft 365</title>
+      <description><![CDATA[Advanced offboarding for Microsoft 365 is now live.
+• Expanded offboarding actions for Microsoft 365 accounts
+• Parity with Rippling's enhanced Google Workspace offboarding flow]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0194571d-d0c9-7938-8764-af918849fcdf</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Devices Store relaunch</title>
+      <description><![CDATA[Devices Store has been relaunched.
+• Refreshed Devices Store experience for browsing and ordering
+• Foundation for upcoming device catalog improvements]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019a9e4f-59de-73e9-8b33-215497ee742a</guid>
+      <category>Inventory Management</category>
+    </item>
+    <item>
+      <title>RPass sharing and folder management</title>
+      <description><![CDATA[Password Manager now supports sharing and folder management.
+• Share credentials with structured sharing grants
+• Organize credentials with folders]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0195fc48-3bf1-74c7-9435-13844c7fe6f4</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Work email policies</title>
+      <description><![CDATA[Work email policies are now supported.
+• Define policies that govern how work emails are assigned and updated for employees]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">01950b36-6d2c-7b02-8baf-175ab78216fe</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>(Integration) Access Assignments</title>
+      <description><![CDATA[Access assignments for integrations are now available.
+• Assign app access via the integration manager]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0194fb3c-177a-7355-88da-c867d90abda7</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>3 new S1 SKUs (Purple AI, Cloud Funnel, Vigilance MDR)</title>
+      <description><![CDATA[Three new SentinelOne SKUs are now available.
+• Purple AI, Cloud Funnel, and Vigilance MDR purchasable as part of the SentinelOne offering through Rippling]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0198ebe7-dc46-70e5-9ee6-3a66b6e053f4</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Google inbound SSO setup flow</title>
+      <description><![CDATA[Google inbound SSO setup now supports direct metadata XML upload.
+• Upload Google metadata XML directly, no separate hosting required
+• Streamlined setup for Google as your IdP
+• Available with the new third-party IdP connector SKU]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019b2638-aba9-775d-80ac-cf884269f143</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Inbound SSO from JumpCloud</title>
+      <description><![CDATA[Inbound SSO from JumpCloud is now supported.
+• Use JumpCloud as your IdP to sign in
+• SAML-based setup]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0193fb91-dd59-7b15-8840-a5deb28c21ff</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Google Workspace (Inbound SSO) federated authentication</title>
+      <description><![CDATA[Inbound SSO from Google Workspace via federated authentication is now supported.
+• Use Google Workspace as your IdP to sign in]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0193fb64-75fc-7529-968a-342fa8a32378</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Inbound SSO from OneLogin</title>
+      <description><![CDATA[Inbound SSO from OneLogin is now supported.
+• Use OneLogin as your IdP to sign in
+• SAML-based setup]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0193fb93-3372-7627-869d-fe4c21c574f3</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Remote Access (Mac)</title>
+      <description><![CDATA[Remote access for Mac devices is now available.
+• Remote into managed Mac devices from the admin console
+• Self-serve purchase available]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019402db-74a6-7696-8795-9f6075083194</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Scoped SSO (Outbound)</title>
+      <description><![CDATA[Outbound SSO can now be rolled out in a scoped manner for third-party app integrations.
+• Roll out SSO to specific users or groups before full deployment
+• Exclude users or groups after a full rollout]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019c0924-26d9-75d8-87c5-385ea44b03cd</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Access exclusions in hiring/transition</title>
+      <description><![CDATA[Access exclusions in hiring and transition flows are now available.
+• Exclude specific end users from access policies they would otherwise be part of]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019c2a30-6bff-735e-a928-b5a01750c5d9</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Smooth Migration (Windows Entra)</title>
+      <description><![CDATA[Smooth migration is now available for Entra-joined Windows devices.
+• Migrate devices while keeping them connected to Entra
+• Path to converting Entra accounts to local accounts after migration]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019941af-aab9-7efb-b692-f5dd542ce3c8</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>RPass admin revamp</title>
+      <description><![CDATA[Password Manager admin experience has been revamped.
+• Refreshed admin views for managing credentials]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019c2f54-ee4e-753c-8eb6-bb59c13ad65a</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Mac migration for supervised devices</title>
+      <description><![CDATA[Mac migration now preserves supervised status during the move.
+• Migrate supervised Mac devices without losing supervision]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019cdb53-3a24-7592-ab27-bad137664289</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Push Work Email updates to 3P Apps</title>
+      <description><![CDATA[Work email updates now push to connected third-party apps.
+• Initial coverage: Slack, Zoom, Atlassian, Salesforce, Gong, Google
+• Reduces stale email addresses across the SaaS stack after employee changes]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0197a088-d8b4-7a1f-bef3-48967355d562</guid>
+      <category>Identity</category>
+    </item>
+    <item>
+      <title>Remote Access (Windows)</title>
+      <description><![CDATA[Remote access for Windows devices is now available.
+• Remote into managed Windows devices from the admin console
+• Complements the Mac remote access capability]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019bb95f-72cc-7ce7-bc52-6fb4cc1efebc</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Attribute mapping v2</title>
+      <description><![CDATA[Attribute mapping v2 is now live for third-party app integrations.
+• Per-user preview of what will be pushed to a connected app
+• Side-by-side comparison of internal values vs the third-party app's current values
+• Mismatch detection, single-user push, and improved activity logs]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019d51de-1b5b-744d-9e5a-bf03eef2ef87</guid>
+      <category>Identity</category>
+    </item>
     <item>
       <title>Google Workspace Offboarding v2</title>
       <description><![CDATA[Advanced policy management
