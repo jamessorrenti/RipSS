@@ -7,6 +7,15 @@
     <description>Latest product launches for IT admins (scope: it-ac)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Mon, 25 May 2026 21:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:26:43 GMT</lastBuildDate>
+    <item>
+      <title>Risk register</title>
+      <description><![CDATA[Automated Compliance now includes a built-in risk register, replacing the manual spreadsheet workflow.
+• Survey-driven review of each risk, capturing inherent risk, mapped mitigating controls, and residual risk
+• Direct mapping between risks and the controls that address them
+• Generates the risk register evidence required for a SOC 2 audit]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Automated Compliance</category>
+    </item>
   </channel>
 </rss>
