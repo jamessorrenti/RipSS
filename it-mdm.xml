@@ -7,7 +7,50 @@
     <description>Latest product launches for IT admins (scope: it-mdm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Mon, 25 May 2026 21:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:26:41 GMT</lastBuildDate>
+    <item>
+      <title>3 new S1 SKUs (Purple AI, Cloud Funnel, Vigilance MDR)</title>
+      <description><![CDATA[Three new SentinelOne SKUs are now available.
+• Purple AI, Cloud Funnel, and Vigilance MDR purchasable as part of the SentinelOne offering through Rippling]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">0198ebe7-dc46-70e5-9ee6-3a66b6e053f4</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Remote Access (Mac)</title>
+      <description><![CDATA[Remote access for Mac devices is now available.
+• Remote into managed Mac devices from the admin console
+• Self-serve purchase available]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019402db-74a6-7696-8795-9f6075083194</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Smooth Migration (Windows Entra)</title>
+      <description><![CDATA[Smooth migration is now available for Entra-joined Windows devices.
+• Migrate devices while keeping them connected to Entra
+• Path to converting Entra accounts to local accounts after migration]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019941af-aab9-7efb-b692-f5dd542ce3c8</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Mac migration for supervised devices</title>
+      <description><![CDATA[Mac migration now preserves supervised status during the move.
+• Migrate supervised Mac devices without losing supervision]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019cdb53-3a24-7592-ab27-bad137664289</guid>
+      <category>Device Management</category>
+    </item>
+    <item>
+      <title>Remote Access (Windows)</title>
+      <description><![CDATA[Remote access for Windows devices is now available.
+• Remote into managed Windows devices from the admin console
+• Complements the Mac remote access capability]]></description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">019bb95f-72cc-7ce7-bc52-6fb4cc1efebc</guid>
+      <category>Device Management</category>
+    </item>
     <item>
       <title>Improved Software Experience</title>
       <description><![CDATA[Improved software deployment management
