@@ -2,12 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0">
   <channel>
-    <title>Rippling Identity Product Launches</title>
+    <title>Rippling Identity (IAM) Launches</title>
     <link>https://rippling.com</link>
     <description>Latest product launches for IT admins (scope: it-iam)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Sat, 23 May 2026 04:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:17:10 GMT</lastBuildDate>
     <item>
       <title>Google Workspace Offboarding v2</title>
       <description><![CDATA[Advanced policy management
