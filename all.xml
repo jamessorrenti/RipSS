@@ -7,21 +7,19 @@
     <description>Latest product launches for IT admins (scope: all)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Mon, 25 May 2026 17:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 21:20:16 GMT</lastBuildDate>
     <item>
       <title>Google Workspace Offboarding v2</title>
       <description><![CDATA[Advanced policy management
--- Create, update, duplicate, archive, and reorder offboarding policies by priority
-Safer policy iteration with full version history and restore capabilities
+• Create, update, duplicate, archive, and reorder offboarding policies by priority Safer policy iteration with full version history and restore capabilities
 
 Simulation & admin confidence
--- Simulate mode to preview user-level offboarding actions before execution
-Helps admins validate policies and build trust before enabling automation
+• Simulate mode to preview user-level offboarding actions before execution Helps admins validate policies and build trust before enabling automation
 
 Comprehensive visibility & audit tracking
--- Offboarding Activity records with user-level and action-level status tracking
--- Clear error messages with manual retry controls for failed actions
--- Policy changelog tracking who changed what and when]]></description>
+• Offboarding Activity records with user-level and action-level status tracking
+• Clear error messages with manual retry controls for failed actions
+• Policy changelog tracking who changed what and when]]></description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ac9df-492c-7eed-b8f5-cc7f1c720e8c</guid>
       <category>Identity</category>
@@ -30,15 +28,15 @@ Comprehensive visibility & audit tracking
       <title>SSO Improvements (BDR, error msg)</title>
       <description><![CDATA[When configuring a BDR policy where Action = Block sign-in (for all apps or specific apps), admins can now:
 
--- Add a custom message per policy
--- Use a rich text editor (formatting + hyperlinks supported)
--- Include links to resources (e.g., security training in LMS)
--- Preview the message before saving
--- Override the default fallback message (fully backward compatible)
+• Add a custom message per policy
+• Use a rich text editor (formatting + hyperlinks supported)
+• Include links to resources (e.g., security training in LMS)
+• Preview the message before saving
+• Override the default fallback message (fully backward compatible)
 
 This works for both:
--- Editing existing BDR policies
--- Creating new BDR policies
+• Editing existing BDR policies
+• Creating new BDR policies
 
 Users who are blocked will now see the configured message during SSO instead of a generic error.]]></description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
@@ -54,20 +52,20 @@ Users who are blocked will now see the configured message during SSO instead of 
     <item>
       <title>Bulk 3P Group Push Bug Fix</title>
       <description><![CDATA[Bug fix
--- Fixed an issue where landing groups in a stuck state]]></description>
+• Fixed an issue where landing groups in a stuck state]]></description>
       <pubDate>Mon, 09 Mar 2026 17:48:14 GMT</pubDate>
       <category>Identity</category>
     </item>
     <item>
       <title>Improved Software Experience</title>
       <description><![CDATA[Improved software deployment management
--- Easily view the status of software deployments across your organization
--- Quickly identify errors and issues with detailed explanations
--- Explore and manage software from an improved catalog experience
+• Easily view the status of software deployments across your organization
+• Quickly identify errors and issues with detailed explanations
+• Explore and manage software from an improved catalog experience
 
 Better debugging and policy deployment visibility
--- Detailed error tracking for policy deployments
--- Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
+• Detailed error tracking for policy deployments
+• Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
       <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
       <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
       <category>Device Management</category>
@@ -75,91 +73,91 @@ Better debugging and policy deployment visibility
     <item>
       <title>Standalone Inventory Management</title>
       <description><![CDATA[Device lifecycle management improvements
--- Fully decoupled solution for managing device workflows end-to-end
--- Supports shipping devices to and from the warehouse
--- Enables device inspection and buyback processes
--- Operates independently without requiring MDM integration]]></description>
+• Fully decoupled solution for managing device workflows end-to-end
+• Supports shipping devices to and from the warehouse
+• Enables device inspection and buyback processes
+• Operates independently without requiring MDM integration]]></description>
       <category>Inventory Management</category>
     </item>
     <item>
       <title>API latency improvements</title>
       <description><![CDATA[API performance improvements
--- Improved latency across APIs impacting critical user workflows
--- Enhancements apply to SSO login, individual and group assignments, SCIM/SAML setup, and offboarding
+• Improved latency across APIs impacting critical user workflows
+• Enhancements apply to SSO login, individual and group assignments, SCIM/SAML setup, and offboarding
 
 Faster identity and provisioning workflows
--- Achieved ~20–25% average latency reduction across affected endpoints
--- Delivered 50–88% improvements in key flows including AD provisioning, SSO login, and integration group assignments]]></description>
+• Achieved ~20–25% average latency reduction across affected endpoints
+• Delivered 50–88% improvements in key flows including AD provisioning, SSO login, and integration group assignments]]></description>
       <category>Identity</category>
     </item>
     <item>
       <title>Improvements to Slack integration</title>
       <description><![CDATA[Improved Slack integration & reauthorization
--- Introduced modern OAuth reauthorization for Slack Enterprise Grid
--- Enables org-level reconnection with the correct permissions for user lifecycle events
--- Resolves issues with reactivation scenarios such as start date changes, rehires, and post-deactivation access
+• Introduced modern OAuth reauthorization for Slack Enterprise Grid
+• Enables org-level reconnection with the correct permissions for user lifecycle events
+• Resolves issues with reactivation scenarios such as start date changes, rehires, and post-deactivation access
 
 Enhanced Slack SSO setup experience
--- Dynamic setup instructions tailored to the customer’s Slack plan (Enterprise Grid vs Pro/Business+)
--- Step-by-step guidance for configuring SAML, navigating Slack settings, and testing setup
--- Replaces outdated one-size-fits-all instructions to reduce confusion and setup errors]]></description>
+• Dynamic setup instructions tailored to the customer’s Slack plan (Enterprise Grid vs Pro/Business+)
+• Step-by-step guidance for configuring SAML, navigating Slack settings, and testing setup
+• Replaces outdated one-size-fits-all instructions to reduce confusion and setup errors]]></description>
       <guid isPermaLink="false">019ce592-2018-7885-b41b-e95f38fec827</guid>
       <category>Identity</category>
     </item>
     <item>
       <title>Automating permission updates for Third-party Apps</title>
       <description><![CDATA[Improved App Shop permissions management
--- Eliminated the need for one-off permission configuration for non-super admins
--- Enable permission profiles to automatically grant install access for new integrations
--- Streamlines access control for all newly published third-party App Shop integrations]]></description>
+• Eliminated the need for one-off permission configuration for non-super admins
+• Enable permission profiles to automatically grant install access for new integrations
+• Streamlines access control for all newly published third-party App Shop integrations]]></description>
       <guid isPermaLink="false">019ad56d-3c06-7ca3-b65a-03c9a4fc2f3d</guid>
       <category>Identity</category>
     </item>
     <item>
       <title>Faster Software Installation Initiation</title>
       <description><![CDATA[Faster software deployment
--- Significantly improved deployment speed across devices
--- New deployments now initiate within ~2 minutes of a device coming online]]></description>
+• Significantly improved deployment speed across devices
+• New deployments now initiate within ~2 minutes of a device coming online]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Revamped Device Enrollment Flow</title>
       <description><![CDATA[Improved device onboarding experience
--- Streamlined the “add a device” flow for faster setup
--- Simplified trial account landing pages for a more intuitive experience
--- Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
+• Streamlined the “add a device” flow for faster setup
+• Simplified trial account landing pages for a more intuitive experience
+• Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>RPass Extension Popout</title>
       <description><![CDATA[Enhanced RPass usability
--- Open RPass in a dedicated browser window for a more flexible experience
--- Enables persistent browsing while viewing and copying credentials]]></description>
+• Open RPass in a dedicated browser window for a more flexible experience
+• Enables persistent browsing while viewing and copying credentials]]></description>
       <category>Identity</category>
     </item>
     <item>
       <title>RPass Dark mode</title>
       <description><![CDATA[RPass extension enhancements
--- Added dark mode support for a more comfortable viewing experience]]></description>
+• Added dark mode support for a more comfortable viewing experience]]></description>
       <category>Identity</category>
     </item>
     <item>
       <title>Granular user account management during device assignment</title>
       <description><![CDATA[Granular device assignment controls
--- Choose what user accounts to keep
--- Choose what user accounts to delete
--- Choose whether or not to create a new account
--- Edit both the username and full name for the account
--- Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
+• Choose what user accounts to keep
+• Choose what user accounts to delete
+• Choose whether or not to create a new account
+• Edit both the username and full name for the account
+• Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Smooth migration for Windows (non-Entra)</title>
       <description><![CDATA[Simplified device migration to Rippling MDM
--- Quickly migrate devices with minimal steps for a seamless transition
--- Supports migration from existing Windows MDM solutions
--- Applies to devices not joined to Microsoft Entra
--- Makes it easier for customers to transition to Rippling MDM]]></description>
+• Quickly migrate devices with minimal steps for a seamless transition
+• Supports migration from existing Windows MDM solutions
+• Applies to devices not joined to Microsoft Entra
+• Makes it easier for customers to transition to Rippling MDM]]></description>
       <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
     </item>
