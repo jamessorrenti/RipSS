@@ -2,12 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0">
   <channel>
-    <title>Rippling Inventory Management Product Launches</title>
+    <title>Rippling Inventory Management (IVM) Launches</title>
     <link>https://rippling.com</link>
     <description>Latest product launches for IT admins (scope: it-ivm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Sat, 23 May 2026 04:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:17:13 GMT</lastBuildDate>
     <item>
       <title>Standalone Inventory Management</title>
       <description><![CDATA[Device lifecycle management improvements
