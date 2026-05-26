@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0">
   <channel>
     <title>:rippling: Rippling IT + Related Product Launches :rippling:</title>
     <link>https://rippling.com</link>
     <description>Latest product launches for IT admins (scope: it)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 18:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:27:02 GMT</lastBuildDate>
     <item>
       <title>RPass Admin Overview Enhancements</title>
       <description><![CDATA[*RPass Admin Overview Enhancements*
@@ -18,7 +18,7 @@ RPass admin overview has been revamped to consolidate user-level insights on a s
 • Highlights at-risk and out-of-compliance logins directly in the overview]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>RPass Admin Vault Management Enhancements</title>
@@ -30,7 +30,7 @@ RPass admin vault management has been enhanced with item-level visibility and di
 • Add items, search, and filter by tags, password strength, and compliance status inline]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Step Up Auth Copy Updates</title>
@@ -41,7 +41,7 @@ Step Up authentication prompts now include clearer copy explaining why re-authen
 • Reduces confusion and support tickets around unexpected re-auth prompts]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Default integration attributes permissions fix</title>
@@ -52,7 +52,7 @@ Permission scope for setting default integration attributes has been expanded.
 • Removes the need to escalate to super admins for routine integration setup]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>3P group push and pull reliability</title>
@@ -63,7 +63,7 @@ Third-party group push and pull reliability has been improved.
 • More dependable propagation of group changes across third-party integrations]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Store checkout page redesign</title>
@@ -74,7 +74,7 @@ The Devices Store checkout page has been redesigned for a faster, more flexible 
 • More flexible configuration options at purchase time]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Inventory Management</category>
-      <dc:creator>Inventory Management</dc:creator>
+      <author>noreply@rippling.com (Inventory Management)</author>
     </item>
     <item>
       <title>New Logistic Flows</title>
@@ -86,7 +86,7 @@ Redesigned logistic flows now:
 • Allows creating a shipping label only instead of always sending a box]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Inventory Management</category>
-      <dc:creator>Inventory Management</dc:creator>
+      <author>noreply@rippling.com (Inventory Management)</author>
     </item>
     <item>
       <title>Risk register</title>
@@ -98,7 +98,7 @@ Automated Compliance now includes a built-in risk register, replacing the manual
 • Generates the risk register evidence required for a SOC 2 audit]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Automated Compliance</category>
-      <dc:creator>Automated Compliance</dc:creator>
+      <author>noreply@rippling.com (Automated Compliance)</author>
     </item>
     <item>
       <title>Zendesk OAuth Migration</title>
@@ -110,7 +110,7 @@ Zendesk integration now uses modern OAuth.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ad566-6714-7875-b597-a9433f73d7d5</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Multi-region - Top 5 Apps</title>
@@ -121,7 +121,7 @@ EU data residency is now supported for the top 5 SaaS app integrations.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ac9e4-cf15-7172-87d9-8cbdb7246c18</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Advanced Offboarding for Microsoft 365</title>
@@ -133,7 +133,7 @@ Advanced offboarding for Microsoft 365 is now live.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0194571d-d0c9-7938-8764-af918849fcdf</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Devices Store relaunch</title>
@@ -145,7 +145,7 @@ Devices Store has been relaunched.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019a9e4f-59de-73e9-8b33-215497ee742a</guid>
       <category>Inventory Management</category>
-      <dc:creator>Inventory Management</dc:creator>
+      <author>noreply@rippling.com (Inventory Management)</author>
     </item>
     <item>
       <title>RPass sharing and folder management</title>
@@ -157,7 +157,7 @@ Password Manager now supports sharing and folder management.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0195fc48-3bf1-74c7-9435-13844c7fe6f4</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Work email policies</title>
@@ -168,7 +168,7 @@ Work email policies are now supported.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">01950b36-6d2c-7b02-8baf-175ab78216fe</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>(Integration) Access Assignments</title>
@@ -179,7 +179,7 @@ Access assignments for integrations are now available.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0194fb3c-177a-7355-88da-c867d90abda7</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>3 new S1 SKUs (Purple AI, Cloud Funnel, Vigilance MDR)</title>
@@ -190,7 +190,7 @@ Three new SentinelOne SKUs are now available.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0198ebe7-dc46-70e5-9ee6-3a66b6e053f4</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Google inbound SSO setup flow</title>
@@ -203,7 +203,7 @@ Google inbound SSO setup now supports direct metadata XML upload.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019b2638-aba9-775d-80ac-cf884269f143</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Inbound SSO from JumpCloud</title>
@@ -215,7 +215,7 @@ Inbound SSO from JumpCloud is now supported.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0193fb91-dd59-7b15-8840-a5deb28c21ff</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Google Workspace (Inbound SSO) federated authentication</title>
@@ -226,7 +226,7 @@ Inbound SSO from Google Workspace via federated authentication is now supported.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0193fb64-75fc-7529-968a-342fa8a32378</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Inbound SSO from OneLogin</title>
@@ -238,7 +238,7 @@ Inbound SSO from OneLogin is now supported.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0193fb93-3372-7627-869d-fe4c21c574f3</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Remote Access (Mac)</title>
@@ -250,7 +250,7 @@ Remote access for Mac devices is now available.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019402db-74a6-7696-8795-9f6075083194</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Scoped SSO (Outbound)</title>
@@ -262,7 +262,7 @@ Outbound SSO can now be rolled out in a scoped manner for third-party app integr
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019c0924-26d9-75d8-87c5-385ea44b03cd</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Access exclusions in hiring/transition</title>
@@ -273,7 +273,7 @@ Access exclusions in hiring and transition flows are now available.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019c2a30-6bff-735e-a928-b5a01750c5d9</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Smooth Migration (Windows Entra)</title>
@@ -285,7 +285,7 @@ Smooth migration is now available for Entra-joined Windows devices.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019941af-aab9-7efb-b692-f5dd542ce3c8</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>RPass admin revamp</title>
@@ -296,7 +296,7 @@ Password Manager admin experience has been revamped.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019c2f54-ee4e-753c-8eb6-bb59c13ad65a</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Mac migration for supervised devices</title>
@@ -307,7 +307,7 @@ Mac migration now preserves supervised status during the move.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019cdb53-3a24-7592-ab27-bad137664289</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Push Work Email updates to 3P Apps</title>
@@ -319,7 +319,7 @@ Work email updates now push to connected third-party apps.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0197a088-d8b4-7a1f-bef3-48967355d562</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Remote Access (Windows)</title>
@@ -331,7 +331,7 @@ Remote access for Windows devices is now available.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019bb95f-72cc-7ce7-bc52-6fb4cc1efebc</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Attribute mapping v2</title>
@@ -344,7 +344,7 @@ Attribute mapping v2 is now live for third-party app integrations.
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019d51de-1b5b-744d-9e5a-bf03eef2ef87</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Google Workspace Offboarding v2</title>
@@ -363,7 +363,7 @@ Comprehensive visibility & audit tracking
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ac9df-492c-7eed-b8f5-cc7f1c720e8c</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>SSO Improvements (BDR, error msg)</title>
@@ -385,7 +385,7 @@ Users who are blocked will now see the configured message during SSO instead of 
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019ad55b-661c-7750-a338-a084f042b488</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>SSO Latency Improvements</title>
@@ -394,7 +394,7 @@ Users who are blocked will now see the configured message during SSO instead of 
 Rearchitected network requests resulting in a 50% reduction in median latency]]></description>
       <pubDate>Mon, 09 Mar 2026 23:35:03 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Bulk 3P Group Push Bug Fix</title>
@@ -404,7 +404,7 @@ Bug fix
 • Fixed an issue where landing groups in a stuck state]]></description>
       <pubDate>Mon, 09 Mar 2026 17:48:14 GMT</pubDate>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Improved Software Experience</title>
@@ -421,7 +421,7 @@ Better debugging and policy deployment visibility
       <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
       <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Standalone Inventory Management</title>
@@ -433,7 +433,7 @@ Device lifecycle management improvements
 • Enables device inspection and buyback processes
 • Operates independently without requiring MDM integration]]></description>
       <category>Inventory Management</category>
-      <dc:creator>Inventory Management</dc:creator>
+      <author>noreply@rippling.com (Inventory Management)</author>
     </item>
     <item>
       <title>API latency improvements</title>
@@ -447,7 +447,7 @@ Faster identity and provisioning workflows
 • Achieved ~20–25% average latency reduction across affected endpoints
 • Delivered 50–88% improvements in key flows including AD provisioning, SSO login, and integration group assignments]]></description>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Improvements to Slack integration</title>
@@ -464,7 +464,7 @@ Enhanced Slack SSO setup experience
 • Replaces outdated one-size-fits-all instructions to reduce confusion and setup errors]]></description>
       <guid isPermaLink="false">019ce592-2018-7885-b41b-e95f38fec827</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Automating permission updates for Third-party Apps</title>
@@ -476,7 +476,7 @@ Improved App Shop permissions management
 • Streamlines access control for all newly published third-party App Shop integrations]]></description>
       <guid isPermaLink="false">019ad56d-3c06-7ca3-b65a-03c9a4fc2f3d</guid>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Faster Software Installation Initiation</title>
@@ -486,7 +486,7 @@ Faster software deployment
 • Significantly improved deployment speed across devices
 • New deployments now initiate within ~2 minutes of a device coming online]]></description>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Revamped Device Enrollment Flow</title>
@@ -497,7 +497,7 @@ Improved device onboarding experience
 • Simplified trial account landing pages for a more intuitive experience
 • Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>RPass Extension Popout</title>
@@ -507,7 +507,7 @@ Enhanced RPass usability
 • Open RPass in a dedicated browser window for a more flexible experience
 • Enables persistent browsing while viewing and copying credentials]]></description>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>RPass Dark mode</title>
@@ -516,7 +516,7 @@ Enhanced RPass usability
 RPass extension enhancements
 • Added dark mode support for a more comfortable viewing experience]]></description>
       <category>Identity</category>
-      <dc:creator>Identity</dc:creator>
+      <author>noreply@rippling.com (Identity)</author>
     </item>
     <item>
       <title>Granular user account management during device assignment</title>
@@ -529,7 +529,7 @@ Granular device assignment controls
 • Edit both the username and full name for the account
 • Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
     <item>
       <title>Smooth migration for Windows (non-Entra)</title>
@@ -542,7 +542,7 @@ Simplified device migration to Rippling MDM
 • Makes it easier for customers to transition to Rippling MDM]]></description>
       <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
-      <dc:creator>Device Management</dc:creator>
+      <author>noreply@rippling.com (Device Management)</author>
     </item>
   </channel>
 </rss>
