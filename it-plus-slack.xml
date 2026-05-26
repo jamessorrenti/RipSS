@@ -7,7 +7,7 @@
     <description>Latest product launches for IT admins (scope: it)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 20:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 22:27:11 GMT</lastBuildDate>
     <item>
       <title>RPass Admin Overview Enhancements</title>
       <description><![CDATA[> RPass admin overview has been revamped to consolidate user-level insights on a single page.
@@ -206,7 +206,7 @@
 > • Remote into managed Mac devices from the admin console
 > • Self-serve purchase available]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-      <link>https://rippling.com/it</link>
+      <link>https://help.rippling.com/page?page=devices#remote-access</link>
       <guid isPermaLink="false">019402db-74a6-7696-8795-9f6075083194</guid>
       <category>Device Management</category>
     </item>
@@ -273,7 +273,7 @@
 > • Remote into managed Windows devices from the admin console
 > • Complements the Mac remote access capability]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-      <link>https://rippling.com/it</link>
+      <link>https://help.rippling.com/page?page=devices#remote-access</link>
       <guid isPermaLink="false">019bb95f-72cc-7ce7-bc52-6fb4cc1efebc</guid>
       <category>Device Management</category>
     </item>
