@@ -7,7 +7,7 @@
     <description>Latest product launches for IT admins (scope: it-iam)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 18:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:57:51 GMT</lastBuildDate>
     <item>
       <title>RPass Admin Overview Enhancements</title>
       <description><![CDATA[RPass admin overview has been revamped to consolidate user-level insights on a single page.
@@ -15,6 +15,7 @@
 • Surfaces every item a user has access to and at what permission level
 • Highlights at-risk and out-of-compliance logins directly in the overview]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -24,6 +25,7 @@
 • View and manage folders and sharing permissions directly from the admin
 • Add items, search, and filter by tags, password strength, and compliance status inline]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -32,6 +34,7 @@
 • Updated messaging conveys that the action is guarded and Step Up must be completed to proceed
 • Reduces confusion and support tickets around unexpected re-auth prompts]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -40,6 +43,7 @@
 • All app admins can now update the default integration attribute (previously super-admin only)
 • Removes the need to escalate to super admins for routine integration setup]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -48,6 +52,7 @@
 • Updated sync mechanism reduces failures for connected-app group memberships
 • More dependable propagation of group changes across third-party integrations]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -56,6 +61,7 @@
 • Existing Zendesk connections move to OAuth-based authentication
 • Replaces legacy auth for more reliable connection management]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019ad566-6714-7875-b597-a9433f73d7d5</guid>
       <category>Identity</category>
     </item>
@@ -64,6 +70,7 @@
       <description><![CDATA[EU data residency is now supported for the top 5 SaaS app integrations.
 • Microsoft 365, Slack, and Zoom certified and enabled for EU customers]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019ac9e4-cf15-7172-87d9-8cbdb7246c18</guid>
       <category>Identity</category>
     </item>
@@ -73,6 +80,7 @@
 • Expanded offboarding actions for Microsoft 365 accounts
 • Parity with Rippling's enhanced Google Workspace offboarding flow]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0194571d-d0c9-7938-8764-af918849fcdf</guid>
       <category>Identity</category>
     </item>
@@ -82,6 +90,7 @@
 • Share credentials with structured sharing grants
 • Organize credentials with folders]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0195fc48-3bf1-74c7-9435-13844c7fe6f4</guid>
       <category>Identity</category>
     </item>
@@ -90,6 +99,7 @@
       <description><![CDATA[Work email policies are now supported.
 • Define policies that govern how work emails are assigned and updated for employees]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">01950b36-6d2c-7b02-8baf-175ab78216fe</guid>
       <category>Identity</category>
     </item>
@@ -98,6 +108,7 @@
       <description><![CDATA[Access assignments for integrations are now available.
 • Assign app access via the integration manager]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0194fb3c-177a-7355-88da-c867d90abda7</guid>
       <category>Identity</category>
     </item>
@@ -108,6 +119,7 @@
 • Streamlined setup for Google as your IdP
 • Available with the new third-party IdP connector SKU]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019b2638-aba9-775d-80ac-cf884269f143</guid>
       <category>Identity</category>
     </item>
@@ -117,6 +129,7 @@
 • Use JumpCloud as your IdP to sign in
 • SAML-based setup]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0193fb91-dd59-7b15-8840-a5deb28c21ff</guid>
       <category>Identity</category>
     </item>
@@ -125,6 +138,7 @@
       <description><![CDATA[Inbound SSO from Google Workspace via federated authentication is now supported.
 • Use Google Workspace as your IdP to sign in]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0193fb64-75fc-7529-968a-342fa8a32378</guid>
       <category>Identity</category>
     </item>
@@ -134,6 +148,7 @@
 • Use OneLogin as your IdP to sign in
 • SAML-based setup]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0193fb93-3372-7627-869d-fe4c21c574f3</guid>
       <category>Identity</category>
     </item>
@@ -143,6 +158,7 @@
 • Roll out SSO to specific users or groups before full deployment
 • Exclude users or groups after a full rollout]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019c0924-26d9-75d8-87c5-385ea44b03cd</guid>
       <category>Identity</category>
     </item>
@@ -151,6 +167,7 @@
       <description><![CDATA[Access exclusions in hiring and transition flows are now available.
 • Exclude specific end users from access policies they would otherwise be part of]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019c2a30-6bff-735e-a928-b5a01750c5d9</guid>
       <category>Identity</category>
     </item>
@@ -159,6 +176,7 @@
       <description><![CDATA[Password Manager admin experience has been revamped.
 • Refreshed admin views for managing credentials]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019c2f54-ee4e-753c-8eb6-bb59c13ad65a</guid>
       <category>Identity</category>
     </item>
@@ -168,6 +186,7 @@
 • Initial coverage: Slack, Zoom, Atlassian, Salesforce, Gong, Google
 • Reduces stale email addresses across the SaaS stack after employee changes]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0197a088-d8b4-7a1f-bef3-48967355d562</guid>
       <category>Identity</category>
     </item>
@@ -178,6 +197,7 @@
 • Side-by-side comparison of internal values vs the third-party app's current values
 • Mismatch detection, single-user push, and improved activity logs]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019d51de-1b5b-744d-9e5a-bf03eef2ef87</guid>
       <category>Identity</category>
     </item>
@@ -194,6 +214,7 @@ Comprehensive visibility & audit tracking
 • Clear error messages with manual retry controls for failed actions
 • Policy changelog tracking who changed what and when]]></description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019ac9df-492c-7eed-b8f5-cc7f1c720e8c</guid>
       <category>Identity</category>
     </item>
@@ -213,6 +234,7 @@ This works for both:
 
 Users who are blocked will now see the configured message during SSO instead of a generic error.]]></description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019ad55b-661c-7750-a338-a084f042b488</guid>
       <category>Identity</category>
     </item>
@@ -220,6 +242,7 @@ Users who are blocked will now see the configured message during SSO instead of 
       <title>SSO Latency Improvements</title>
       <description><![CDATA[Rearchitected network requests resulting in a 50% reduction in median latency]]></description>
       <pubDate>Mon, 09 Mar 2026 23:35:03 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -227,6 +250,7 @@ Users who are blocked will now see the configured message during SSO instead of 
       <description><![CDATA[Bug fix
 • Fixed an issue where landing groups in a stuck state]]></description>
       <pubDate>Mon, 09 Mar 2026 17:48:14 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -238,6 +262,7 @@ Users who are blocked will now see the configured message during SSO instead of 
 Faster identity and provisioning workflows
 • Achieved ~20–25% average latency reduction across affected endpoints
 • Delivered 50–88% improvements in key flows including AD provisioning, SSO login, and integration group assignments]]></description>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
@@ -251,6 +276,7 @@ Enhanced Slack SSO setup experience
 • Dynamic setup instructions tailored to the customer’s Slack plan (Enterprise Grid vs Pro/Business+)
 • Step-by-step guidance for configuring SAML, navigating Slack settings, and testing setup
 • Replaces outdated one-size-fits-all instructions to reduce confusion and setup errors]]></description>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019ce592-2018-7885-b41b-e95f38fec827</guid>
       <category>Identity</category>
     </item>
@@ -260,6 +286,7 @@ Enhanced Slack SSO setup experience
 • Eliminated the need for one-off permission configuration for non-super admins
 • Enable permission profiles to automatically grant install access for new integrations
 • Streamlines access control for all newly published third-party App Shop integrations]]></description>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019ad56d-3c06-7ca3-b65a-03c9a4fc2f3d</guid>
       <category>Identity</category>
     </item>
@@ -268,12 +295,14 @@ Enhanced Slack SSO setup experience
       <description><![CDATA[Enhanced RPass usability
 • Open RPass in a dedicated browser window for a more flexible experience
 • Enables persistent browsing while viewing and copying credentials]]></description>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
     <item>
       <title>RPass Dark mode</title>
       <description><![CDATA[RPass extension enhancements
 • Added dark mode support for a more comfortable viewing experience]]></description>
+      <link>https://rippling.com/it</link>
       <category>Identity</category>
     </item>
   </channel>
