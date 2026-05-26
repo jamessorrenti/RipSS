@@ -7,13 +7,14 @@
     <description>Latest product launches for IT admins (scope: it-ivm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 18:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:57:54 GMT</lastBuildDate>
     <item>
       <title>Store checkout page redesign</title>
       <description><![CDATA[The Devices Store checkout page has been redesigned for a faster, more flexible ordering flow.
 • Simplified, easier-to-use checkout experience
 • More flexible configuration options at purchase time]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Inventory Management</category>
     </item>
     <item>
@@ -23,6 +24,7 @@
 • Allows scheduling shipping and unassignment in the future
 • Allows creating a shipping label only instead of always sending a box]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <category>Inventory Management</category>
     </item>
     <item>
@@ -31,6 +33,7 @@
 • Refreshed Devices Store experience for browsing and ordering
 • Foundation for upcoming device catalog improvements]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019a9e4f-59de-73e9-8b33-215497ee742a</guid>
       <category>Inventory Management</category>
     </item>
@@ -41,6 +44,7 @@
 • Supports shipping devices to and from the warehouse
 • Enables device inspection and buyback processes
 • Operates independently without requiring MDM integration]]></description>
+      <link>https://rippling.com/it</link>
       <category>Inventory Management</category>
     </item>
   </channel>
