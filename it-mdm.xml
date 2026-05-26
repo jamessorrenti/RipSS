@@ -7,12 +7,13 @@
     <description>Latest product launches for IT admins (scope: it-mdm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 18:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:57:53 GMT</lastBuildDate>
     <item>
       <title>3 new S1 SKUs (Purple AI, Cloud Funnel, Vigilance MDR)</title>
       <description><![CDATA[Three new SentinelOne SKUs are now available.
 • Purple AI, Cloud Funnel, and Vigilance MDR purchasable as part of the SentinelOne offering through Rippling]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0198ebe7-dc46-70e5-9ee6-3a66b6e053f4</guid>
       <category>Device Management</category>
     </item>
@@ -22,6 +23,7 @@
 • Remote into managed Mac devices from the admin console
 • Self-serve purchase available]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019402db-74a6-7696-8795-9f6075083194</guid>
       <category>Device Management</category>
     </item>
@@ -31,6 +33,7 @@
 • Migrate devices while keeping them connected to Entra
 • Path to converting Entra accounts to local accounts after migration]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019941af-aab9-7efb-b692-f5dd542ce3c8</guid>
       <category>Device Management</category>
     </item>
@@ -39,6 +42,7 @@
       <description><![CDATA[Mac migration now preserves supervised status during the move.
 • Migrate supervised Mac devices without losing supervision]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019cdb53-3a24-7592-ab27-bad137664289</guid>
       <category>Device Management</category>
     </item>
@@ -48,6 +52,7 @@
 • Remote into managed Windows devices from the admin console
 • Complements the Mac remote access capability]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019bb95f-72cc-7ce7-bc52-6fb4cc1efebc</guid>
       <category>Device Management</category>
     </item>
@@ -62,6 +67,7 @@ Better debugging and policy deployment visibility
 • Detailed error tracking for policy deployments
 • Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
       <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
       <category>Device Management</category>
     </item>
@@ -70,6 +76,7 @@ Better debugging and policy deployment visibility
       <description><![CDATA[Faster software deployment
 • Significantly improved deployment speed across devices
 • New deployments now initiate within ~2 minutes of a device coming online]]></description>
+      <link>https://rippling.com/it</link>
       <category>Device Management</category>
     </item>
     <item>
@@ -78,6 +85,7 @@ Better debugging and policy deployment visibility
 • Streamlined the “add a device” flow for faster setup
 • Simplified trial account landing pages for a more intuitive experience
 • Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
+      <link>https://rippling.com/it</link>
       <category>Device Management</category>
     </item>
     <item>
@@ -88,6 +96,7 @@ Better debugging and policy deployment visibility
 • Choose whether or not to create a new account
 • Edit both the username and full name for the account
 • Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
+      <link>https://rippling.com/it</link>
       <category>Device Management</category>
     </item>
     <item>
@@ -97,6 +106,7 @@ Better debugging and policy deployment visibility
 • Supports migration from existing Windows MDM solutions
 • Applies to devices not joined to Microsoft Entra
 • Makes it easier for customers to transition to Rippling MDM]]></description>
+      <link>https://rippling.com/it</link>
       <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
     </item>
