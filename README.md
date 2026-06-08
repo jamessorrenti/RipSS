@@ -8,8 +8,8 @@ Source + update workflow: [product-launch-comms-processor](https://github.com/ja
 
 - **Rippling Product Launches** — [https://jamessorrenti.github.io/RipSS/all.xml](https://jamessorrenti.github.io/RipSS/all.xml)
 - **Rippling IT Product Launches** — [https://jamessorrenti.github.io/RipSS/it.xml](https://jamessorrenti.github.io/RipSS/it.xml)
-- **Rippling IT + Related Product Launches** — [https://jamessorrenti.github.io/RipSS/it-plus.xml](https://jamessorrenti.github.io/RipSS/it-plus.xml)
+- **Rippling IT + Related Product Launches** — [https://jamessorrenti.github.io/RipSS/beta-it-plus.xml](https://jamessorrenti.github.io/RipSS/beta-it-plus.xml)
 
 ---
 
-*Auto-generated Tue, 26 May 2026 23:12:40 GMT.*
+*Auto-generated Mon, 08 Jun 2026 18:36:31 GMT.*
