@@ -7,40 +7,31 @@
     <description>Latest product launches for IT admins (scope: it-ivm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 23:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:36:13 GMT</lastBuildDate>
     <item>
       <title>Store checkout page redesign</title>
-      <description><![CDATA[The Devices Store checkout page has been redesigned for a faster, more flexible ordering flow.
-• Simplified, easier-to-use checkout experience
-• More flexible configuration options at purchase time]]></description>
+      <description><![CDATA[The Devices Store checkout page has been redesigned for a faster, more flexible ordering flow. • Simplified, easier-to-use checkout experience • More flexible configuration options at purchase time]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Inventory Management</category>
     </item>
     <item>
       <title>New Logistic Flows</title>
-      <description><![CDATA[Redesigned logistic flows now:
-• Allows user to view and edit all the actions to be taken in a single screen
-• Allows scheduling shipping and unassignment in the future
-• Allows creating a shipping label only instead of always sending a box]]></description>
+      <description><![CDATA[Redesigned logistic flows now: • Allows user to view and edit all the actions to be taken in a single screen • Allows scheduling shipping and unassignment in the future • Allows creating a shipping label only instead of always sending a box
+
+What's coming next: Bulk flows where user an process multiple devices at once, as well as the ability for IT admins to kickstart these flows from Rippling AI.]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <category>Inventory Management</category>
     </item>
     <item>
       <title>Devices Store relaunch</title>
-      <description><![CDATA[Devices Store has been relaunched.
-• Refreshed Devices Store experience for browsing and ordering
-• Foundation for upcoming device catalog improvements]]></description>
+      <description><![CDATA[Devices Store has been relaunched. • Refreshed Devices Store experience for browsing and ordering • Foundation for upcoming device catalog improvements]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019a9e4f-59de-73e9-8b33-215497ee742a</guid>
       <category>Inventory Management</category>
     </item>
     <item>
       <title>Standalone Inventory Management</title>
-      <description><![CDATA[Device lifecycle management improvements
-• Fully decoupled solution for managing device workflows end-to-end
-• Supports shipping devices to and from the warehouse
-• Enables device inspection and buyback processes
-• Operates independently without requiring MDM integration]]></description>
+      <description><![CDATA[Device lifecycle management improvements • Fully decoupled solution for managing device workflows end-to-end • Supports shipping devices to and from the warehouse • Enables device inspection and buyback processes • Operates independently without requiring MDM integration]]></description>
       <category>Inventory Management</category>
     </item>
   </channel>
