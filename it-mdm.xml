@@ -7,20 +7,17 @@
     <description>Latest product launches for IT admins (scope: it-mdm)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 23:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:36:11 GMT</lastBuildDate>
     <item>
       <title>3 new S1 SKUs (Purple AI, Cloud Funnel, Vigilance MDR)</title>
-      <description><![CDATA[Three new SentinelOne SKUs are now available.
-• Purple AI, Cloud Funnel, and Vigilance MDR purchasable as part of the SentinelOne offering through Rippling]]></description>
+      <description><![CDATA[Three new SentinelOne SKUs are now available. • Purple AI, Cloud Funnel, and Vigilance MDR purchasable as part of the SentinelOne offering through Rippling]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">0198ebe7-dc46-70e5-9ee6-3a66b6e053f4</guid>
       <category>Device Management</category>
     </item>
     <item>
       <title>Remote Access (Mac)</title>
-      <description><![CDATA[Remote access for Mac devices is now available.
-• Remote into managed Mac devices from the admin console
-• Self-serve purchase available]]></description>
+      <description><![CDATA[Remote access for Mac devices is now available. • Remote into managed Mac devices from the admin console • Self-serve purchase available]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <link>https://help.rippling.com/page?page=devices#remote-access</link>
       <guid isPermaLink="false">019402db-74a6-7696-8795-9f6075083194</guid>
@@ -28,26 +25,21 @@
     </item>
     <item>
       <title>Smooth Migration (Windows Entra)</title>
-      <description><![CDATA[Smooth migration is now available for Entra-joined Windows devices.
-• Migrate devices while keeping them connected to Entra
-• Path to converting Entra accounts to local accounts after migration]]></description>
+      <description><![CDATA[Smooth migration is now available for Entra-joined Windows devices. • Migrate devices while keeping them connected to Entra • Path to converting Entra accounts to local accounts after migration]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019941af-aab9-7efb-b692-f5dd542ce3c8</guid>
       <category>Device Management</category>
     </item>
     <item>
       <title>Mac migration for supervised devices</title>
-      <description><![CDATA[Mac migration now preserves supervised status during the move.
-• Migrate supervised Mac devices without losing supervision]]></description>
+      <description><![CDATA[Mac migration now preserves supervised status during the move. • Migrate supervised Mac devices without losing supervision]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019cdb53-3a24-7592-ab27-bad137664289</guid>
       <category>Device Management</category>
     </item>
     <item>
       <title>Remote Access (Windows)</title>
-      <description><![CDATA[Remote access for Windows devices is now available.
-• Remote into managed Windows devices from the admin console
-• Complements the Mac remote access capability]]></description>
+      <description><![CDATA[Remote access for Windows devices is now available. • Remote into managed Windows devices from the admin console • Complements the Mac remote access capability]]></description>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
       <link>https://help.rippling.com/page?page=devices#remote-access</link>
       <guid isPermaLink="false">019bb95f-72cc-7ce7-bc52-6fb4cc1efebc</guid>
@@ -55,50 +47,31 @@
     </item>
     <item>
       <title>Improved Software Experience</title>
-      <description><![CDATA[Improved software deployment management
-• Easily view the status of software deployments across your organization
-• Quickly identify errors and issues with detailed explanations
-• Explore and manage software from an improved catalog experience
+      <description><![CDATA[Improved software deployment management • Easily view the status of software deployments across your organization • Quickly identify errors and issues with detailed explanations • Explore and manage software from an improved catalog experience  Better debugging and policy deployment visibility • Detailed error tracking for policy deployments • Clear insights into deployment failures to help admins quickly diagnose and resolve issues
 
-Better debugging and policy deployment visibility
-• Detailed error tracking for policy deployments
-• Clear insights into deployment failures to help admins quickly diagnose and resolve issues]]></description>
-      <pubDate>Mon, 09 Mar 2026 17:23:24 GMT</pubDate>
+What's coming next: Faster deployments of software.]]></description>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">019aef12-b194-7b00-897f-cfa45b779959</guid>
       <category>Device Management</category>
     </item>
     <item>
       <title>Faster Software Installation Initiation</title>
-      <description><![CDATA[Faster software deployment
-• Significantly improved deployment speed across devices
-• New deployments now initiate within ~2 minutes of a device coming online]]></description>
+      <description><![CDATA[Faster software deployment • Significantly improved deployment speed across devices • New deployments now initiate within ~2 minutes of a device coming online]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Revamped Device Enrollment Flow</title>
-      <description><![CDATA[Improved device onboarding experience
-• Streamlined the “add a device” flow for faster setup
-• Simplified trial account landing pages for a more intuitive experience
-• Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
+      <description><![CDATA[Improved device onboarding experience • Streamlined the "add a device" flow for faster setup • Simplified trial account landing pages for a more intuitive experience • Makes it easier to get new devices up and running quickly on Rippling MDM]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Granular user account management during device assignment</title>
-      <description><![CDATA[Granular device assignment controls
-• Choose what user accounts to keep
-• Choose what user accounts to delete
-• Choose whether or not to create a new account
-• Edit both the username and full name for the account
-• Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
+      <description><![CDATA[Granular device assignment controls • Choose what user accounts to keep • Choose what user accounts to delete • Choose whether or not to create a new account • Edit both the username and full name for the account • Pick a local user account that will become the network account (for Windows devices with network accounts enabled)]]></description>
       <category>Device Management</category>
     </item>
     <item>
       <title>Smooth migration for Windows (non-Entra)</title>
-      <description><![CDATA[Simplified device migration to Rippling MDM
-• Quickly migrate devices with minimal steps for a seamless transition
-• Supports migration from existing Windows MDM solutions
-• Applies to devices not joined to Microsoft Entra
-• Makes it easier for customers to transition to Rippling MDM]]></description>
+      <description><![CDATA[Simplified device migration to Rippling MDM • Quickly migrate devices with minimal steps for a seamless transition • Supports migration from existing Windows MDM solutions • Applies to devices not joined to Microsoft Entra • Makes it easier for customers to transition to Rippling MDM]]></description>
       <guid isPermaLink="false">0194bf20-e0ff-7cb9-a03a-791a88630043</guid>
       <category>Device Management</category>
     </item>
