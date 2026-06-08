@@ -7,7 +7,7 @@
     <description>Latest product launches for IT admins (scope: all)</description>
     <language>en-us</language>
     <managingEditor>j.sorrenti@rippling.com (James Sorrenti)</managingEditor>
-    <lastBuildDate>Mon, 08 Jun 2026 18:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:37:06 GMT</lastBuildDate>
     <item>
       <title>Automated Compliance</title>
       <description><![CDATA[Automated Compliance is now generally available. • SOC 2 compliance program with automated evidence collection across Rippling and connected third-party systems • Auditor portal lets auditors independently access and sample data, communicating with customers directly in the platform • Customers have completed audits with zero findings]]></description>
@@ -25,6 +25,12 @@
     <item>
       <title>Access reviews (Identity &amp; Access Management feature)</title>
       <description><![CDATA[[IAM team built this, AC has a monitor that tracks it] Admins can set up a quarterly Access Review in Rippling Third-Party Access app. The feature takes them through a review of each employee that has access to an app. Automated Compliance collects evidence of this process ahead of the company's audit.  https://www.loom.com/share/c55bd6bf045843588cd91cac80be2c65]]></description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Automated Compliance</category>
+    </item>
+    <item>
+      <title>Launched Automated Compliance for GA customers</title>
+      <description><![CDATA[Helps compliance admins prepare for a SOC 2 audit with the policies, controls, and evidence they need. Once ready, they work with an independent third-party auditor to get a completed SOC 2 report.  https://www.rippling.com/en-CA/products/it/automated-compliance]]></description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
       <category>Automated Compliance</category>
     </item>
